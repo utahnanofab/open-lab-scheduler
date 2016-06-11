@@ -1,4 +1,4 @@
-# Major Components of Nano Multi-lab MS
+# Major Components of a Lab Management System
 ---
 
 Source: 
